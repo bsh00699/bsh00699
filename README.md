@@ -22,6 +22,6 @@ I am a hot blooded young man who is passionate about web full-stack services
 
 #### Recent Articles
 * [Functional programming](https://www.yuque.com/dianshijuhaoka/glky0l/bfis1d)
-* [Hooks](https://www.yuque.com/docs/share/1baf5df2-08ba-47e1-a34c-b4e88dcf463d?# 《Hooks》)
+* [Hooks](https://www.yuque.com/docs/share/1baf5df2-08ba-47e1-a34c-b4e88dcf463d?#《Hooks》)
 * [How browsers work](https://www.yuque.com/dianshijuhaoka/tdt7qr)
 * [webpack](https://www.yuque.com/dianshijuhaoka/fcz68r)
