@@ -4,8 +4,8 @@ I am a hot blooded young man who is passionate about web full-stack services
 <img align="right" alt="GIF" src="https://github.com/bsh00699/bsh00699/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ###  My skills
-- 3+ years of Nodejs, Express, Koa experience
-- 1+ years of React, React Hooks, Kubernetes Docker experience
+- 4+ years of Nodejs, JavaScript, Express, Koa experience
+- 2+ years of React, React Hooks, Kubernetes Docker experience
 - Language: JavaScript, TypeScript
 - Build tools: Webpack
 - Api: RESTful API, GraphQL
@@ -21,7 +21,9 @@ I am a hot blooded young man who is passionate about web full-stack services
 - 🌸 [Yuque](https://www.yuque.com/dianshijuhaoka)
 
 #### Recent Articles
+* [webpack](https://www.yuque.com/dianshijuhaoka/fcz68r)
+* [Node-学习之路2](https://www.yuque.com/dianshijuhaoka/glky0l)
 * [Functional programming](https://www.yuque.com/dianshijuhaoka/glky0l/bfis1d)
 * [Hooks](https://www.yuque.com/docs/share/1baf5df2-08ba-47e1-a34c-b4e88dcf463d?#《Hooks》)
 * [How browsers work](https://www.yuque.com/dianshijuhaoka/tdt7qr)
-* [webpack](https://www.yuque.com/dianshijuhaoka/fcz68r)
+* [Linux基础](https://www.yuque.com/dianshijuhaoka/bmuppv)
