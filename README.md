@@ -1,7 +1,7 @@
 ### Hi I am Tr 👋
 
 I am a hot blooded young man who is passionate about web full-stack services
-<img align="right" alt="GIF" src="https://github.com/bsh00699/bsh00699/blob/master/code.png" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/bsh00699/bsh00699/blob/master/code.gif" width="500" height="320" />
 
 ###  My skills
 - 4+ years of Nodejs, JavaScript, Express, Koa experience
